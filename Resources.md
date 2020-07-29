@@ -20,7 +20,15 @@ R 的使用主要分三大块：1.统计分析与数值计算；2.数据可视�
 > [生物信息学R语言入门](https://qiubio.com/new/book/)
 > [R的极客理想系列文章](http://blog.fens.me/series-r/)
 
-## Python 使用
+## Python 与机器学习
+
+除深度学习外，其他的 Machine learning 的学习可以看这个课程
+>[从零开始掌握Python机器学习：十四步教程](https://zhuanlan.zhihu.com/p/25761248)
+
+深度学习现在用得比较多的是 PyTorch
+
+> * [PyTorch深度学习：60分钟入门(Translation)](https://zhuanlan.zhihu.com/p/25572330)
+> * [PyTorch官方教程中文版](http://pytorch123.com/)
 
 ## Bulk RNA数据分析
 
