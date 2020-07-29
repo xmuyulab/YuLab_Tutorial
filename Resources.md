@@ -15,10 +15,6 @@
 > * [菜鸟教程Docker](https://www.runoob.com/docker/docker-tutorial.html)
 > * [Docker官方说明](https://docs.docker.com)
 
-## R 语言使用
-R 的使用主要分三大块：1.统计分析与数值计算；2.数据可视化；3.生物信息工具使用。下面分享一些有意思的资源：
-> [生物信息学R语言入门](https://qiubio.com/new/book/)
-> [R的极客理想系列文章](http://blog.fens.me/series-r/)
 
 ## Python 与机器学习
 
@@ -29,6 +25,13 @@ R 的使用主要分三大块：1.统计分析与数值计算；2.数据可视�
 
 > * [PyTorch深度学习：60分钟入门(Translation)](https://zhuanlan.zhihu.com/p/25572330)
 > * [PyTorch官方教程中文版](http://pytorch123.com/)
+
+## R 语言使用
+我们主要用 R 来做：1.统计分析与数值计算；2.数据可视化；3.生物信息工具使用。下面分享一些有意思的资源：
+> * 统计检验： [T 检验](http://blog.fens.me/r-test-t/), [卡方检验](http://blog.fens.me/r-test-x2/)
+> * R 生物信息分析（可以结合下面 RNA 数据分析学习): [生物信息学R语言入门](https://qiubio.com/new/book/)
+
+
 
 ## Bulk RNA数据分析
 
@@ -82,3 +85,4 @@ RNA分析一多半分析是围绕表达谱进行的。这部分的资料数不�
 ## Reference
 
 生信技能树的B站资源：https://space.bilibili.com/338686099
+[R的极客理想系列文章](http://blog.fens.me/series-r/)
