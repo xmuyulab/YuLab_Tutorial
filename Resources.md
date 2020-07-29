@@ -42,7 +42,6 @@ RNA分析一多半分析是围绕表达谱进行的。这部分的资料数不�
 
 ### RNA seq分析全流程
 
-生信技能树的B站资源：https://space.bilibili.com/338686099
 
 > * http://www.rna-seqblog.com
 
@@ -71,3 +70,7 @@ RNA分析一多半分析是围绕表达谱进行的。这部分的资料数不�
 ### scRNA定量基础上的分析
 
 主要围绕scRNA分析的三大R包展开：Seurat，Scater和Monocle。
+
+## Reference
+
+生信技能树的B站资源：https://space.bilibili.com/338686099
