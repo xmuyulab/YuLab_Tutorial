@@ -4,7 +4,7 @@
 * You are not working for Prof. Yu.  Prof. Yu is working with you on **your** projects. 
 * Asking for what you need rather than hoping that Prof. Yu will know what to provide
 * Don't expect to figure everything out by yourself.  When you have a question, ask search engine first then your fellow students and Prof. Yu
-* Thining from the end.  When start a project, start with a vision of what the “perfect paper” would look like. What will be novel? What will be the conceptual advance? And how will we validate it? After establishing the big goal, we then work backward to establish the work plan on how to proceed. 
+* Thinking from the end.  When start a project, start with a vision of what the “perfect paper” would look like. What will be novel? What will be the conceptual advance? And how will we validate it? After establishing the big goal, we then work backward to establish the work plan on how to proceed. 
 
 ## Survival skills
 * Good programming skill (talk is cheap, show me the code)
