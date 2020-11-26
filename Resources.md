@@ -7,6 +7,8 @@
 > * [菜鸟教程：Linux 教程](https://www.runoob.com/linux/linux-tutorial.html)
 > * [知乎：Ubuntu学习资源](https://www.zhihu.com/question/19816319)
 
+However, if you were busy, you may want to check this basic Linux common command line function [here](./linux_basic.md). 
+
 ### Git使用
 > * [廖雪峰Git教程](https://www.liaoxuefeng.com/wiki/896043488029600)
 > * [菜鸟教程Git](https://www.runoob.com/git/git-tutorial.html)
