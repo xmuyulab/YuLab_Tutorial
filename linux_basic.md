@@ -551,4 +551,16 @@ seq 10			# 产生1到10的整数
 md5sum			# 生成，或验证文件的MD5值
 ```
 
+## 终端快捷键
+```
+Ctrl – a ：移到行首
+Ctrl – e ：移到行尾
+Ctrl – b ：往回(左)移动一个字符
+Ctrl – f ：往后(右)移动一个字符
+Alt – b ：往回(左)移动一个单词
+Alt – f ：往后(右)移动一个单词
+Ctrl – xx ：在命令行尾和光标之间移动
+M-b ：往回(左)移动一个单词
+```
+
 Copy from https://zhuanlan.zhihu.com/p/302596162?utm_source=wechat_session&utm_medium=social&utm_oi=1005880655431024640&utm_campaign=shareopn
