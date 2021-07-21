@@ -8,7 +8,7 @@
 
 ## Survival skills
 * Good programming skill (talk is cheap, show me the code)
-* Git and github (harddisk breakdown randomly.  If no, Prof Yu may randomly smash some when he feels bored)
+* Git and github (harddisk breakdown randomly)
 * Docker (Make sure your results can be repeated!)
 * Good English reading skill (how many papers you read per day?)
 
